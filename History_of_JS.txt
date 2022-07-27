@@ -1,0 +1,52 @@
+
+In 1995 we have a popular web browser name as "Netscape Navigator".
+They want a language which work on to add interactivity to their websites.
+
+"Brendan Eich" working for them, they made JavaScript within 10 days.
+Starting js is known as Mocha,then LiveScript. But not get attention or not used by users.
+
+Then they named as LiveScript as JavaScript because on that day Java is too popular language.
+
+LiveScript ---> JavaScript
+
+After that, due to popularity of JavaScript. In 1996, Internet Explorer invented another programming language known as "Jscript"
+
+Now
+Netscape Navigator 2 browser have JavaScript.
+Internet Explorer brwoser have JScript.
+We have two programming languages.
+
+created issues(problem):-
+If we use JavaScript then my website is looking good on Netscape browser.
+
+Then JavaScript handed To "ECMA" 
+ECMA is an international organisation, which standarized different technologies, they decided that how technology behaves and how they work.
+
+ECMA international standards organisation, now every browser should follow the rules. Runs JavaScript on every browser.
+ECMA decided how to js technology works and its behaviour.
+Js was developed for Netscape 2, and became the ECMA-262 standard in 1997.
+
+Internet Explorer(IE4) was first browser to support ECMA-262 Edition(ES1)
+
+
+versions;
+1995 -------------------JS was invented by "Brendan Eich"
+1996 -------------------Netscape 2 was released with JavaScript 1.0.
+1997--------------------JS became an ECMA standard(ECMA-262)
+1997--------------------ECMAScript 1 was released and (popular) everybrowser should have same specifcation, run this script.
+1998--------------------ES2
+1999--------------------ES3
+
+2008--------------------ES4
+
+2009--------------------ES5 was released (lots of feature)
+2015--------------------ES6 was released ( Biggest Update in history of js also known as Advanced Js) So much popular.
+
+IE9 didn't support ES5 "use strict"
+IE11 doesn't support ES6.
+
+
+In 1996, Netscape and Bredan Eich took js to ECMA international standards organisation, and technical commitee(TC39) was created ti develop the language.
+
+
+ 
